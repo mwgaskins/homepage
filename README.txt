@@ -8,6 +8,6 @@ README
 CONTACT
 
 	If you have any questions ideas or suggestions visit 
-	"INSERT HOMEPAGE URL HERE".
+	"http://mwgaskins.github.io/".
 
 -Michael Gaskins
